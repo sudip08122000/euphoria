@@ -72,9 +72,3 @@ We appreciate all contributions and look forward to collaborating with the open-
 ## Community
 
 At Euphoria E-commerce, we value community and believe that collaboration and communication are key to building a successful platform. We invite you to join our community and get involved in discussions, share your feedback, and contribute to the platform.
-
-To join our community, you can connect with us on our Discord server at (https://discord.gg/aFwmyMUeRt). Here, you can chat with other members of the community, ask questions, and get help from our team.
-
-We also encourage you to follow us on social media, including Twitter and Instagram, where we regularly share updates and news about the platform.
-
-Thank you for being a part of our community, and we look forward to growing together!
